@@ -1,0 +1,19 @@
+{
+  "name": "prismabackend",
+  "version": "1.0.0",
+  "description": "this is a backend project made with prisma ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ashishphulara/prisma_backend.git"
+  },
+  "author": "ashish phulara",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashishphulara/prisma_backend/issues"
+  },
+  "homepage": "https://github.com/ashishphulara/prisma_backend#readme"
+}
